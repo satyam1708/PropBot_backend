@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "2025-06-13T06:28:06.279Z",
+    "query": "gurgaon",
+    "response": "Sorry, something went wrong while processing your request."
+  },
+  {
+    "timestamp": "2025-06-13T06:28:55.734Z",
+    "query": "gurgaon",
+    "response": "Sorry, something went wrong while processing your request."
+  },
+  {
+    "timestamp": "2025-06-13T06:31:52.885Z",
+    "query": "gu",
+    "response": "Sorry, something went wrong while processing your request."
+  },
+  {
+    "timestamp": "2025-06-13T06:40:00.425Z",
+    "query": "what",
+    "response": "Sorry, something went wrong while processing your request."
+  },
+  {
+    "timestamp": "2025-06-13T06:43:25.225Z",
+    "query": "gurgaon",
+    "response": "Sorry, something went wrong while processing your request."
+  },
+  {
+    "timestamp": "2025-06-13T06:57:16.417Z",
+    "query": "gk",
+    "response": "Sorry, something went wrong while processing your request."
+  },
+  {
+    "timestamp": "2025-06-13T07:11:45.789Z",
+    "query": "hii",
+    "response": "Hello! How can I assist you today?"
+  },
+  {
+    "timestamp": "2025-06-13T07:12:09.897Z",
+    "query": "Find apartments in Delhi under 60 lakhs",
+    "response": "Found 1 properties:\n- Villa in Delhi: ₹6,000,000 (1500 sqft)"
+  },
+  {
+    "timestamp": "2025-06-13T07:12:27.781Z",
+    "query": "show me all the apartments",
+    "response": "Sorry, no properties found in apartment under ₹100000000."
+  },
+  {
+    "timestamp": "2025-06-13T07:12:52.151Z",
+    "query": "show me for location gurugram",
+    "response": "Found 2 properties:\n- Apartment in Gurugram: ₹4,500,000 (1200 sqft)\n- Studio in Gurugram: ₹3,000,000 (900 sqft)"
+  },
+  {
+    "timestamp": "2025-06-13T07:15:24.827Z",
+    "query": "show all",
+    "response": "Sure! Could you please provide me with some details like the city or locality you are interested in and the maximum price range? This will help me to filter properties for you."
+  },
+  {
+    "timestamp": "2025-06-13T07:15:36.927Z",
+    "query": "for all cities",
+    "response": "Sorry, no properties found in all under ₹5000000."
+  },
+  {
+    "timestamp": "2025-06-13T07:15:50.020Z",
+    "query": "2bhk in pune",
+    "response": "Sorry, no properties found in Pune under ₹0."
+  },
+  {
+    "timestamp": "2025-06-13T07:16:07.461Z",
+    "query": "2 bhk in pune under 4000000",
+    "response": "Sorry, no properties found in Pune under ₹4000000."
+  },
+  {
+    "timestamp": "2025-06-13T07:19:15.752Z",
+    "query": "this",
+    "response": "Please provide more details on what you would like assistance with."
+  },
+  {
+    "timestamp": "2025-06-13T07:21:27.042Z",
+    "query": "show me all",
+    "response": "Found 5 properties:\n- Apartment in Gurugram: ₹4,500,000 (1200 sqft)\n- Villa in Delhi: ₹6,000,000 (1500 sqft)\n- Studio in Gurugram: ₹3,000,000 (900 sqft)\n- Apartment in Noida: ₹5,000,000 (1300 sqft)\n- Villa in Delhi: ₹7,000,000 (1800 sqft)"
+  },
+  {
+    "timestamp": "2025-06-13T07:22:10.027Z",
+    "query": "Find apartments in Delhi under 60 lakhs",
+    "response": "Found 1 properties:\n- Villa in Delhi: ₹6,000,000 (1500 sqft)"
+  },
+  {
+    "timestamp": "2025-06-13T07:38:56.789Z",
+    "query": "hii",
+    "response": "Hello! How can I assist you today?"
+  },
+  {
+    "timestamp": "2025-06-13T07:39:05.454Z",
+    "query": "send me all properties",
+    "response": "Found 5 properties:\n- Apartment in Gurugram: ₹4,500,000 (1200 sqft)\n- Villa in Delhi: ₹6,000,000 (1500 sqft)\n- Studio in Gurugram: ₹3,000,000 (900 sqft)\n- Apartment in Noida: ₹5,000,000 (1300 sqft)\n- Villa in Delhi: ₹7,000,000 (1800 sqft)"
+  }
+]
